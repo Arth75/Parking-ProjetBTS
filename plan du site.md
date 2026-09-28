@@ -18,10 +18,6 @@
 | `/forgot-password` | Formulaire "mot de passe oublié" (saisie de l'email) |
 | `/reset-password/:token` | Formulaire de nouveau mot de passe, avec jeton envoyé par email |
 
-> ⚠️ Le cahier des charges précise que les inscriptions doivent être **validées ou créées par un administrateur**. `/register` ne crée donc pas un compte actif : elle crée une demande que l'admin valide depuis `/admin/users`.
-
----
-
 ## 2. Espace utilisateur — 👤 (rôle `user`)
 
 | URL | Description |
