@@ -19,10 +19,6 @@ Pour éviter le stationnement sauvage, chaque membre du personnel peut demander 
 | Tiago Da Cunha | [@Tidaku](https://github.com/Tidaku) |
 | Arthur Lee | [@Arth75](https://github.com/Arth75) |
 
-## Branche de travail
-
-`main`
-
 ## Avancement
 
 - [x] **Itération 1 — Documentation**
