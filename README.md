@@ -16,8 +16,8 @@ Pour éviter le stationnement sauvage, chaque membre du personnel peut demander 
 
 | Membre | GitHub | Rôle |
 |---|---|---|
-| Tiago Da Cunha | [@Tidaku](https://github.com/Tidaku) | [À compléter] |
-| [Nom Prénom] | [@Arth75](https://github.com/Arth75) | [À compléter] |
+| Tiago Da Cunha | [@Tidaku](https://github.com/Tidaku) | chef-lol |
+| [Nom Prénom] | [@Arth75](https://github.com/Arth75) | suppléant  |
 
 ## Branche de travail
 
