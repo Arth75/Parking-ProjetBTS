@@ -1,6 +1,6 @@
 CREATE DATABASE Parking; 
 CREATE TABLE Utilisateur (
-  NomUtilisateur int PRIMARY KEY,
+  NumUtilisateur int PRIMARY KEY,
   NomClient Varchar(255), 
   PrénomClient Varchar(255),
   AdresseClient Varchar(255),
@@ -21,9 +21,9 @@ CREATE TABLE Place (
   PlaceStatu Varchar (255), 
 
   CONSTRAINT fk_Utilisateur
-    FOREIGN KEY (NomUtilisateur),
-    REFERENCES Utilisateur(NomUtilisateur) 
+    FOREIGN KEY (NumUtilisateur),
+    REFERENCES Utilisateur(NumUtilisateur) 
 
   CONSTRAINT fk_Réservation
-    FOREIGN KEY (NumReservation, 
+    FOREIGN KEY (NumReservation), 
 );
